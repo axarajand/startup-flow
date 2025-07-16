@@ -1,24 +1,41 @@
 # Startup Flow
-
-**Startup Flow** is a web application designed to manage startup workflows and employee integrations effectively. This project includes features for user authentication, CRUD operations, and integration with external services.
+Startup Flow is a web-based project monitoring system that integrates **YOLO (You Only Look Once)** for real-time activity detection and **Reinforcement Learning (RL)** for data-driven decision-making. Designed to improve project efficiency, resource management, and risk reduction, this system enables users to monitor workflows and activities directly from an interactive web interface.
 
 ## Features
-- User authentication system
+- User authentication and role management
 - CRUD operations for managing employee data
-- Modular structure for easier scalability
+- Real-time activity detection using YOLO
+- Intelligent recommendations with Reinforcement Learning
+- MySQL database integration
+- Web-based interactive dashboard
+- Modular and scalable architecture
 - Responsive design for web access
-- Integration-ready for third-party APIs
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone this repository**
    ```bash
    git clone https://github.com/axarajand/startup-flow.git
    ```
-2. Import the database schema:
-   - Navigate to the `database/` folder and import `startup-flow.sql` to your MySQL server.
-3. Configure the database connection in `config.php`.
-4. Run the application on your local web server (XAMPP, Laragon, etc.).
+2. **Navigate to the project folder**
+   ```bash
+   cd startup-flow
+   ```
+3. **Install PHP and MySQL dependencies**  
+   Make sure you have XAMPP or similar environment installed.
+
+4. **Install Python dependencies**
+   This project includes Python scripts for YOLO and RL processing.  
+   Install required libraries from `requirements.txt`:  
+   ```bash
+   pip install -r requirements.txt
+   ```
+5. **Configure the database**  
+   Import the SQL schema from the `database/` folder into your MySQL server.
+
+6. **Run the application**
+   - Start Apache and MySQL servers (via XAMPP).  
+   - Access the app from your browser at `http://localhost/startup-flow`.
 
 ## Project Structure
 ```
