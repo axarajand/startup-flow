@@ -1,0 +1,8 @@
+<IfModule mod_mime.c>
+  AddType video/mp4 .mp4
+  AddType video/x-msvideo .avi
+</IfModule>
+
+<FilesMatch "\.(mp4|avi)$">
+  Header set Access-Control-Allow-Origin "*"
+</FilesMatch>

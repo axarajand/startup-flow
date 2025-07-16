@@ -1,0 +1,11 @@
+pandas
+sqlalchemy
+pygetwindow
+pyautogui
+numpy
+opencv-python
+gym
+stable-baselines3
+scikit-learn
+joblib
+shimmy

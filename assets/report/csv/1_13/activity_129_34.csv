@@ -1,0 +1,542 @@
+task_id|user_id|times|activity|status
+129|34|2025-07-19 08:00:00|Design Review - participant - Google Chrome|effective
+129|34|2025-07-19 08:01:00|Code Review - what - Google Chrome|effective
+129|34|2025-07-19 08:02:00|TikTok - live - Google Chrome|non-effective
+129|34|2025-07-19 08:03:00|Browsing - blood - Google Chrome|non-effective
+129|34|2025-07-19 08:04:00|Jira - newspaper - Google Chrome|effective
+129|34|2025-07-19 08:05:00|Spotify - certain - Google Chrome|non-effective
+129|34|2025-07-19 08:06:00|Grab - fire - Google Chrome|non-effective
+129|34|2025-07-19 08:07:00|API Testing - left - Google Chrome|effective
+129|34|2025-07-19 08:08:00|YouTube - drive - Google Chrome|non-effective
+129|34|2025-07-19 08:09:00|Jira - take - Google Chrome|effective
+129|34|2025-07-19 08:10:00|Sprint Planning - hear - Google Chrome|effective
+129|34|2025-07-19 08:11:00|Live Stream - be - Google Chrome|non-effective
+129|34|2025-07-19 08:12:00|PUBG - performance - Google Chrome|non-effective
+129|34|2025-07-19 08:13:00|Canva - suggest - Google Chrome|effective
+129|34|2025-07-19 08:14:00|Shopping - including - Google Chrome|non-effective
+129|34|2025-07-19 08:15:00|GitHub - authority - Google Chrome|effective
+129|34|2025-07-19 08:16:00|Anime - recently - Google Chrome|non-effective
+129|34|2025-07-19 08:17:00|Movie Night - during - Google Chrome|non-effective
+129|34|2025-07-19 08:18:00|Shopping - leg - Google Chrome|non-effective
+129|34|2025-07-19 08:19:00|Facebook - care - Google Chrome|non-effective
+129|34|2025-07-19 08:20:00|Tokopedia - less - Google Chrome|non-effective
+129|34|2025-07-19 08:21:00|GitHub - Democrat - Google Chrome|effective
+129|34|2025-07-19 08:22:00|Debugging - decide - Google Chrome|effective
+129|34|2025-07-19 08:23:00|API Testing - least - Google Chrome|effective
+129|34|2025-07-19 08:24:00|Slack - energy - Google Chrome|effective
+129|34|2025-07-19 08:25:00|Movie Night - well - Google Chrome|non-effective
+129|34|2025-07-19 08:26:00|Debugging - exactly - Google Chrome|effective
+129|34|2025-07-19 08:27:00|CI/CD Pipeline - indeed - Google Chrome|effective
+129|34|2025-07-19 08:28:00|Design Review - tend - Google Chrome|effective
+129|34|2025-07-19 08:29:00|Anime - wear - Google Chrome|non-effective
+129|34|2025-07-19 08:30:00|Grab - feeling - Google Chrome|non-effective
+129|34|2025-07-19 08:31:00|GitHub - nearly - Google Chrome|effective
+129|34|2025-07-19 08:32:00|IDE Plugin - imagine - Google Chrome|effective
+129|34|2025-07-19 08:33:00|YouTube - view - Google Chrome|non-effective
+129|34|2025-07-19 08:34:00|Twitter - red - Google Chrome|non-effective
+129|34|2025-07-19 08:35:00|Gojek - field - Google Chrome|non-effective
+129|34|2025-07-19 08:36:00|Movie Night - ten - Google Chrome|non-effective
+129|34|2025-07-19 08:37:00|Grab - book - Google Chrome|non-effective
+129|34|2025-07-19 08:38:00|Visual Studio Code - various - Google Chrome|effective
+129|34|2025-07-19 08:39:00|GitLab - every - Google Chrome|effective
+129|34|2025-07-19 08:40:00|Gaming - ever - Google Chrome|non-effective
+129|34|2025-07-19 08:41:00|Mobile Legends - increase - Google Chrome|non-effective
+129|34|2025-07-19 08:42:00|Music Playlist - provide - Google Chrome|non-effective
+129|34|2025-07-19 08:43:00|GitLab - red - Google Chrome|effective
+129|34|2025-07-19 08:44:00|Gojek - should - Google Chrome|non-effective
+129|34|2025-07-19 08:45:00|TikTok - them - Google Chrome|non-effective
+129|34|2025-07-19 08:46:00|Debugging - customer - Google Chrome|effective
+129|34|2025-07-19 08:47:00|Gojek - say - Google Chrome|non-effective
+129|34|2025-07-19 08:48:00|Shopee - should - Google Chrome|non-effective
+129|34|2025-07-19 08:49:00|Code Review - indeed - Google Chrome|effective
+129|34|2025-07-19 08:50:00|Jira - trade - Google Chrome|effective
+129|34|2025-07-19 08:51:00|Netflix - move - Google Chrome|non-effective
+129|34|2025-07-19 08:52:00|Shopping - goal - Google Chrome|non-effective
+129|34|2025-07-19 08:53:00|Confluence - keep - Google Chrome|effective
+129|34|2025-07-19 08:54:00|Teams - Meeting - nearly - Google Chrome|effective
+129|34|2025-07-19 08:55:00|Notion - program - Google Chrome|effective
+129|34|2025-07-19 08:56:00|Gaming - consumer - Google Chrome|non-effective
+129|34|2025-07-19 08:57:00|PUBG - democratic - Google Chrome|non-effective
+129|34|2025-07-19 08:58:00|CI/CD Pipeline - suddenly - Google Chrome|effective
+129|34|2025-07-19 08:59:00|Movie Night - office - Google Chrome|non-effective
+129|34|2025-07-19 09:00:00|Anime - remain - Google Chrome|non-effective
+129|34|2025-07-19 09:01:00|Live Stream - too - Google Chrome|non-effective
+129|34|2025-07-19 09:02:00|Notion - movie - Google Chrome|effective
+129|34|2025-07-19 09:03:00|Instagram - culture - Google Chrome|non-effective
+129|34|2025-07-19 09:04:00|Grab - play - Google Chrome|non-effective
+129|34|2025-07-19 09:05:00|IntelliJ IDEA - have - Google Chrome|effective
+129|34|2025-07-19 09:06:00|TikTok - voice - Google Chrome|non-effective
+129|34|2025-07-19 09:07:00|Teams - Meeting - camera - Google Chrome|effective
+129|34|2025-07-19 09:08:00|Drama Streaming - yeah - Google Chrome|non-effective
+129|34|2025-07-19 09:09:00|Jira - cost - Google Chrome|effective
+129|34|2025-07-19 09:10:00|YouTube - defense - Google Chrome|non-effective
+129|34|2025-07-19 09:11:00|Code Review - family - Google Chrome|effective
+129|34|2025-07-19 09:12:00|Free Fire - speech - Google Chrome|non-effective
+129|34|2025-07-19 09:13:00|Debugging - available - Google Chrome|effective
+129|34|2025-07-19 09:14:00|Lazada - respond - Google Chrome|non-effective
+129|34|2025-07-19 09:15:00|Mobile Legends - think - Google Chrome|non-effective
+129|34|2025-07-19 09:16:00|Confluence - wife - Google Chrome|effective
+129|34|2025-07-19 09:17:00|Jira - prevent - Google Chrome|effective
+129|34|2025-07-19 09:18:00|GitLab - against - Google Chrome|effective
+129|34|2025-07-19 09:19:00|DevOps Tools - meet - Google Chrome|effective
+129|34|2025-07-19 09:20:00|Tokopedia - discuss - Google Chrome|non-effective
+129|34|2025-07-19 09:21:00|Movie Night - hear - Google Chrome|non-effective
+129|34|2025-07-19 09:22:00|PUBG - later - Google Chrome|non-effective
+129|34|2025-07-19 09:23:00|YouTube - crime - Google Chrome|non-effective
+129|34|2025-07-19 09:24:00|Instagram - for - Google Chrome|non-effective
+129|34|2025-07-19 09:25:00|GitLab - service - Google Chrome|effective
+129|34|2025-07-19 09:26:00|API Testing - answer - Google Chrome|effective
+129|34|2025-07-19 09:27:00|Anime - home - Google Chrome|non-effective
+129|34|2025-07-19 09:28:00|GitHub - they - Google Chrome|effective
+129|34|2025-07-19 09:29:00|Terminal - follow - Google Chrome|effective
+129|34|2025-07-19 09:30:00|TikTok - read - Google Chrome|non-effective
+129|34|2025-07-19 09:31:00|Instagram - recently - Google Chrome|non-effective
+129|34|2025-07-19 09:32:00|YouTube - west - Google Chrome|non-effective
+129|34|2025-07-19 09:33:00|Visual Studio Code - whom - Google Chrome|effective
+129|34|2025-07-19 09:34:00|YouTube - very - Google Chrome|non-effective
+129|34|2025-07-19 09:35:00|YouTube - site - Google Chrome|non-effective
+129|34|2025-07-19 09:36:00|Sprint Planning - year - Google Chrome|effective
+129|34|2025-07-19 09:37:00|Twitter - church - Google Chrome|non-effective
+129|34|2025-07-19 09:38:00|Canva - important - Google Chrome|effective
+129|34|2025-07-19 09:39:00|Live Stream - same - Google Chrome|non-effective
+129|34|2025-07-19 09:40:00|Music Playlist - each - Google Chrome|non-effective
+129|34|2025-07-19 09:41:00|Grab - on - Google Chrome|non-effective
+129|34|2025-07-19 09:42:00|Slack - clearly - Google Chrome|effective
+129|34|2025-07-19 09:43:00|IDE Plugin - professor - Google Chrome|effective
+129|34|2025-07-19 09:44:00|Free Fire - house - Google Chrome|non-effective
+129|34|2025-07-19 09:45:00|Zoom Meeting - member - Google Chrome|effective
+129|34|2025-07-19 09:46:00|DevOps Tools - the - Google Chrome|effective
+129|34|2025-07-19 09:47:00|Gaming - fund - Google Chrome|non-effective
+129|34|2025-07-19 09:48:00|API Testing - woman - Google Chrome|effective
+129|34|2025-07-19 09:49:00|Netflix - shoulder - Google Chrome|non-effective
+129|34|2025-07-19 09:50:00|Reddit - work - Google Chrome|non-effective
+129|34|2025-07-19 09:51:00|Netflix - thus - Google Chrome|non-effective
+129|34|2025-07-19 09:52:00|Drama Streaming - successful - Google Chrome|non-effective
+129|34|2025-07-19 09:53:00|Lazada - night - Google Chrome|non-effective
+129|34|2025-07-19 09:54:00|IDE Plugin - sister - Google Chrome|effective
+129|34|2025-07-19 09:55:00|CI/CD Pipeline - through - Google Chrome|effective
+129|34|2025-07-19 09:56:00|Visual Studio Code - lay - Google Chrome|effective
+129|34|2025-07-19 09:57:00|Figma - training - Google Chrome|effective
+129|34|2025-07-19 09:58:00|Jira - such - Google Chrome|effective
+129|34|2025-07-19 09:59:00|Visual Studio Code - possible - Google Chrome|effective
+129|34|2025-07-19 10:00:00|CI/CD Pipeline - sea - Google Chrome|effective
+129|34|2025-07-19 10:01:00|Zoom Meeting - once - Google Chrome|effective
+129|34|2025-07-19 10:02:00|Shopee - often - Google Chrome|non-effective
+129|34|2025-07-19 10:03:00|PyCharm - scene - Google Chrome|effective
+129|34|2025-07-19 10:04:00|Browsing - establish - Google Chrome|non-effective
+129|34|2025-07-19 10:05:00|Jira - buy - Google Chrome|effective
+129|34|2025-07-19 10:06:00|Figma - financial - Google Chrome|effective
+129|34|2025-07-19 10:07:00|Lazada - resource - Google Chrome|non-effective
+129|34|2025-07-19 10:08:00|Movie Night - ball - Google Chrome|non-effective
+129|34|2025-07-19 10:09:00|Gaming - another - Google Chrome|non-effective
+129|34|2025-07-19 10:10:00|Spotify - stuff - Google Chrome|non-effective
+129|34|2025-07-19 10:11:00|Drama Streaming - live - Google Chrome|non-effective
+129|34|2025-07-19 10:12:00|Instagram - writer - Google Chrome|non-effective
+129|34|2025-07-19 10:13:00|Architecture Diagram - listen - Google Chrome|effective
+129|34|2025-07-19 10:14:00|Shopping - out - Google Chrome|non-effective
+129|34|2025-07-19 10:15:00|Drama Streaming - author - Google Chrome|non-effective
+129|34|2025-07-19 10:16:00|Teams - Meeting - instead - Google Chrome|effective
+129|34|2025-07-19 10:17:00|PUBG - of - Google Chrome|non-effective
+129|34|2025-07-19 10:18:00|Canva - memory - Google Chrome|effective
+129|34|2025-07-19 10:19:00|IDE Plugin - second - Google Chrome|effective
+129|34|2025-07-19 10:20:00|Terminal - almost - Google Chrome|effective
+129|34|2025-07-19 10:21:00|Terminal - price - Google Chrome|effective
+129|34|2025-07-19 10:22:00|Teams - Meeting - life - Google Chrome|effective
+129|34|2025-07-19 10:23:00|Netflix - top - Google Chrome|non-effective
+129|34|2025-07-19 10:24:00|PyCharm - forward - Google Chrome|effective
+129|34|2025-07-19 10:25:00|Mobile Legends - brother - Google Chrome|non-effective
+129|34|2025-07-19 10:26:00|Teams - Meeting - pay - Google Chrome|effective
+129|34|2025-07-19 10:27:00|Facebook - role - Google Chrome|non-effective
+129|34|2025-07-19 10:28:00|Reddit - view - Google Chrome|non-effective
+129|34|2025-07-19 10:29:00|GitLab - position - Google Chrome|effective
+129|34|2025-07-19 10:30:00|Twitter - officer - Google Chrome|non-effective
+129|34|2025-07-19 10:31:00|Teams - Meeting - natural - Google Chrome|effective
+129|34|2025-07-19 10:32:00|Gaming - position - Google Chrome|non-effective
+129|34|2025-07-19 10:33:00|TikTok - chair - Google Chrome|non-effective
+129|34|2025-07-19 10:34:00|Movie Night - soon - Google Chrome|non-effective
+129|34|2025-07-19 10:35:00|Free Fire - response - Google Chrome|non-effective
+129|34|2025-07-19 10:36:00|Canva - read - Google Chrome|effective
+129|34|2025-07-19 10:37:00|Gojek - place - Google Chrome|non-effective
+129|34|2025-07-19 10:38:00|Instagram - wish - Google Chrome|non-effective
+129|34|2025-07-19 10:39:00|WhatsApp - each - Google Chrome|non-effective
+129|34|2025-07-19 10:40:00|Instagram - learn - Google Chrome|non-effective
+129|34|2025-07-19 10:41:00|Sprint Planning - actually - Google Chrome|effective
+129|34|2025-07-19 10:42:00|DevOps Tools - space - Google Chrome|effective
+129|34|2025-07-19 10:43:00|Shopping - reality - Google Chrome|non-effective
+129|34|2025-07-19 10:44:00|IDE Plugin - player - Google Chrome|effective
+129|34|2025-07-19 10:45:00|GitLab - special - Google Chrome|effective
+129|34|2025-07-19 10:46:00|Facebook - during - Google Chrome|non-effective
+129|34|2025-07-19 10:47:00|Debugging - whom - Google Chrome|effective
+129|34|2025-07-19 10:48:00|Live Stream - range - Google Chrome|non-effective
+129|34|2025-07-19 10:49:00|Teams - Meeting - do - Google Chrome|effective
+129|34|2025-07-19 10:50:00|Facebook - nearly - Google Chrome|non-effective
+129|34|2025-07-19 10:51:00|Twitter - model - Google Chrome|non-effective
+129|34|2025-07-19 10:52:00|Shopping - create - Google Chrome|non-effective
+129|34|2025-07-19 10:53:00|Reddit - put - Google Chrome|non-effective
+129|34|2025-07-19 10:54:00|IDE Plugin - nothing - Google Chrome|effective
+129|34|2025-07-19 10:55:00|IDE Plugin - class - Google Chrome|effective
+129|34|2025-07-19 10:56:00|Tokopedia - reach - Google Chrome|non-effective
+129|34|2025-07-19 10:57:00|TikTok - against - Google Chrome|non-effective
+129|34|2025-07-19 10:58:00|Terminal - effect - Google Chrome|effective
+129|34|2025-07-19 10:59:00|Zoom Meeting - star - Google Chrome|effective
+129|34|2025-07-19 11:00:00|Twitter - indeed - Google Chrome|non-effective
+129|34|2025-07-19 11:01:00|IntelliJ IDEA - everyone - Google Chrome|effective
+129|34|2025-07-19 11:02:00|Facebook - window - Google Chrome|non-effective
+129|34|2025-07-19 11:03:00|Anime - industry - Google Chrome|non-effective
+129|34|2025-07-19 11:04:00|Design Review - arrive - Google Chrome|effective
+129|34|2025-07-19 11:05:00|PyCharm - church - Google Chrome|effective
+129|34|2025-07-19 11:06:00|IntelliJ IDEA - store - Google Chrome|effective
+129|34|2025-07-19 11:07:00|IntelliJ IDEA - rise - Google Chrome|effective
+129|34|2025-07-19 11:08:00|DevOps Tools - whom - Google Chrome|effective
+129|34|2025-07-19 11:09:00|Debugging - natural - Google Chrome|effective
+129|34|2025-07-19 11:10:00|Drama Streaming - partner - Google Chrome|non-effective
+129|34|2025-07-19 11:11:00|Anime - beyond - Google Chrome|non-effective
+129|34|2025-07-19 11:12:00|Figma - industry - Google Chrome|effective
+129|34|2025-07-19 11:13:00|IDE Plugin - history - Google Chrome|effective
+129|34|2025-07-19 11:14:00|Grab - white - Google Chrome|non-effective
+129|34|2025-07-19 11:15:00|Teams - Meeting - staff - Google Chrome|effective
+129|34|2025-07-19 11:16:00|Confluence - technology - Google Chrome|effective
+129|34|2025-07-19 11:17:00|Confluence - compare - Google Chrome|effective
+129|34|2025-07-19 11:18:00|CI/CD Pipeline - next - Google Chrome|effective
+129|34|2025-07-19 11:19:00|Instagram - various - Google Chrome|non-effective
+129|34|2025-07-19 11:20:00|Teams - Meeting - culture - Google Chrome|effective
+129|34|2025-07-19 11:21:00|Architecture Diagram - safe - Google Chrome|effective
+129|34|2025-07-19 11:22:00|Sprint Planning - only - Google Chrome|effective
+129|34|2025-07-19 11:23:00|Database Query - surface - Google Chrome|effective
+129|34|2025-07-19 11:24:00|Shopping - think - Google Chrome|non-effective
+129|34|2025-07-19 11:25:00|Tokopedia - treat - Google Chrome|non-effective
+129|34|2025-07-19 11:26:00|Jira - few - Google Chrome|effective
+129|34|2025-07-19 11:27:00|Jira - west - Google Chrome|effective
+129|34|2025-07-19 11:28:00|Debugging - find - Google Chrome|effective
+129|34|2025-07-19 11:29:00|Teams - Meeting - difficult - Google Chrome|effective
+129|34|2025-07-19 11:30:00|Jira - meet - Google Chrome|effective
+129|34|2025-07-19 11:31:00|IDE Plugin - training - Google Chrome|effective
+129|34|2025-07-19 11:32:00|Jira - professional - Google Chrome|effective
+129|34|2025-07-19 11:33:00|GitLab - surface - Google Chrome|effective
+129|34|2025-07-19 11:34:00|CI/CD Pipeline - call - Google Chrome|effective
+129|34|2025-07-19 11:35:00|DevOps Tools - natural - Google Chrome|effective
+129|34|2025-07-19 11:36:00|YouTube - follow - Google Chrome|non-effective
+129|34|2025-07-19 11:37:00|Music Playlist - boy - Google Chrome|non-effective
+129|34|2025-07-19 11:38:00|IDE Plugin - key - Google Chrome|effective
+129|34|2025-07-19 11:39:00|Free Fire - clearly - Google Chrome|non-effective
+129|34|2025-07-19 11:40:00|Design Review - prove - Google Chrome|effective
+129|34|2025-07-19 11:41:00|Drama Streaming - dream - Google Chrome|non-effective
+129|34|2025-07-19 11:42:00|IDE Plugin - fire - Google Chrome|effective
+129|34|2025-07-19 11:43:00|IDE Plugin - although - Google Chrome|effective
+129|34|2025-07-19 11:44:00|Design Review - prepare - Google Chrome|effective
+129|34|2025-07-19 11:45:00|Free Fire - might - Google Chrome|non-effective
+129|34|2025-07-19 11:46:00|Live Stream - board - Google Chrome|non-effective
+129|34|2025-07-19 11:47:00|Anime - purpose - Google Chrome|non-effective
+129|34|2025-07-19 11:48:00|Free Fire - everything - Google Chrome|non-effective
+129|34|2025-07-19 11:49:00|Architecture Diagram - phone - Google Chrome|effective
+129|34|2025-07-19 11:50:00|Visual Studio Code - soon - Google Chrome|effective
+129|34|2025-07-19 11:51:00|Shopee - science - Google Chrome|non-effective
+129|34|2025-07-19 11:52:00|Debugging - doctor - Google Chrome|effective
+129|34|2025-07-19 11:53:00|Design Review - provide - Google Chrome|effective
+129|34|2025-07-19 11:54:00|IDE Plugin - money - Google Chrome|effective
+129|34|2025-07-19 11:55:00|Visual Studio Code - keep - Google Chrome|effective
+129|34|2025-07-19 11:56:00|Debugging - give - Google Chrome|effective
+129|34|2025-07-19 11:57:00|Terminal - appear - Google Chrome|effective
+129|34|2025-07-19 11:58:00|Reddit - listen - Google Chrome|non-effective
+129|34|2025-07-19 11:59:00|Architecture Diagram - health - Google Chrome|effective
+129|34|2025-07-19 12:00:00|YouTube - side - Google Chrome|non-effective
+129|34|2025-07-19 12:01:00|Gaming - available - Google Chrome|non-effective
+129|34|2025-07-19 12:02:00|Live Stream - size - Google Chrome|non-effective
+129|34|2025-07-19 12:03:00|GitLab - tough - Google Chrome|effective
+129|34|2025-07-19 12:04:00|Gojek - drop - Google Chrome|non-effective
+129|34|2025-07-19 12:05:00|GitHub - cost - Google Chrome|effective
+129|34|2025-07-19 12:06:00|Teams - Meeting - but - Google Chrome|effective
+129|34|2025-07-19 12:07:00|Gojek - energy - Google Chrome|non-effective
+129|34|2025-07-19 12:08:00|Architecture Diagram - page - Google Chrome|effective
+129|34|2025-07-19 12:09:00|Twitter - bank - Google Chrome|non-effective
+129|34|2025-07-19 12:10:00|Drama Streaming - above - Google Chrome|non-effective
+129|34|2025-07-19 12:11:00|Confluence - good - Google Chrome|effective
+129|34|2025-07-19 12:12:00|Confluence - maybe - Google Chrome|effective
+129|34|2025-07-19 12:13:00|PyCharm - seem - Google Chrome|effective
+129|34|2025-07-19 12:14:00|Netflix - probably - Google Chrome|non-effective
+129|34|2025-07-19 12:15:00|Database Query - respond - Google Chrome|effective
+129|34|2025-07-19 12:16:00|Code Review - value - Google Chrome|effective
+129|34|2025-07-19 12:17:00|Drama Streaming - career - Google Chrome|non-effective
+129|34|2025-07-19 12:18:00|Confluence - learn - Google Chrome|effective
+129|34|2025-07-19 12:19:00|CI/CD Pipeline - anything - Google Chrome|effective
+129|34|2025-07-19 12:20:00|Sprint Planning - raise - Google Chrome|effective
+129|34|2025-07-19 12:21:00|Free Fire - let - Google Chrome|non-effective
+129|34|2025-07-19 12:22:00|Anime - send - Google Chrome|non-effective
+129|34|2025-07-19 12:23:00|PUBG - care - Google Chrome|non-effective
+129|34|2025-07-19 12:24:00|Jira - exist - Google Chrome|effective
+129|34|2025-07-19 12:25:00|PUBG - role - Google Chrome|non-effective
+129|34|2025-07-19 12:26:00|Shopee - agency - Google Chrome|non-effective
+129|34|2025-07-19 12:27:00|Anime - star - Google Chrome|non-effective
+129|34|2025-07-19 12:28:00|Teams - Meeting - lead - Google Chrome|effective
+129|34|2025-07-19 12:29:00|Twitter - daughter - Google Chrome|non-effective
+129|34|2025-07-19 12:30:00|Confluence - too - Google Chrome|effective
+129|34|2025-07-19 12:31:00|Drama Streaming - member - Google Chrome|non-effective
+129|34|2025-07-19 12:32:00|Shopping - another - Google Chrome|non-effective
+129|34|2025-07-19 12:33:00|Teams - Meeting - discussion - Google Chrome|effective
+129|34|2025-07-19 12:34:00|Free Fire - to - Google Chrome|non-effective
+129|34|2025-07-19 12:35:00|Anime - expect - Google Chrome|non-effective
+129|34|2025-07-19 12:36:00|Anime - sport - Google Chrome|non-effective
+129|34|2025-07-19 12:37:00|API Testing - yet - Google Chrome|effective
+129|34|2025-07-19 12:38:00|Confluence - page - Google Chrome|effective
+129|34|2025-07-19 12:39:00|Reddit - how - Google Chrome|non-effective
+129|34|2025-07-19 12:40:00|Netflix - economic - Google Chrome|non-effective
+129|34|2025-07-19 12:41:00|YouTube - cover - Google Chrome|non-effective
+129|34|2025-07-19 12:42:00|Twitter - director - Google Chrome|non-effective
+129|34|2025-07-19 12:43:00|Live Stream - rate - Google Chrome|non-effective
+129|34|2025-07-19 12:44:00|Slack - grow - Google Chrome|effective
+129|34|2025-07-19 12:45:00|Shopping - expect - Google Chrome|non-effective
+129|34|2025-07-19 12:46:00|WhatsApp - budget - Google Chrome|non-effective
+129|34|2025-07-19 12:47:00|CI/CD Pipeline - almost - Google Chrome|effective
+129|34|2025-07-19 12:48:00|Movie Night - hot - Google Chrome|non-effective
+129|34|2025-07-19 12:49:00|Code Review - final - Google Chrome|effective
+129|34|2025-07-19 12:50:00|TikTok - agency - Google Chrome|non-effective
+129|34|2025-07-19 12:51:00|Grab - table - Google Chrome|non-effective
+129|34|2025-07-19 12:52:00|Sprint Planning - sort - Google Chrome|effective
+129|34|2025-07-19 12:53:00|API Testing - owner - Google Chrome|effective
+129|34|2025-07-19 12:54:00|Sprint Planning - young - Google Chrome|effective
+129|34|2025-07-19 12:55:00|Spotify - son - Google Chrome|non-effective
+129|34|2025-07-19 12:56:00|WhatsApp - office - Google Chrome|non-effective
+129|34|2025-07-19 12:57:00|Confluence - general - Google Chrome|effective
+129|34|2025-07-19 12:58:00|Code Review - rate - Google Chrome|effective
+129|34|2025-07-19 12:59:00|Netflix - popular - Google Chrome|non-effective
+129|34|2025-07-19 13:00:00|Teams - Meeting - single - Google Chrome|effective
+129|34|2025-07-19 13:01:00|GitHub - night - Google Chrome|effective
+129|34|2025-07-19 13:02:00|Gojek - simply - Google Chrome|non-effective
+129|34|2025-07-19 13:03:00|Reddit - church - Google Chrome|non-effective
+129|34|2025-07-19 13:04:00|Twitter - outside - Google Chrome|non-effective
+129|34|2025-07-19 13:05:00|Zoom Meeting - require - Google Chrome|effective
+129|34|2025-07-19 13:06:00|Reddit - east - Google Chrome|non-effective
+129|34|2025-07-19 13:07:00|Architecture Diagram - financial - Google Chrome|effective
+129|34|2025-07-19 13:08:00|Slack - whatever - Google Chrome|effective
+129|34|2025-07-19 13:09:00|Debugging - however - Google Chrome|effective
+129|34|2025-07-19 13:10:00|Architecture Diagram - sure - Google Chrome|effective
+129|34|2025-07-19 13:11:00|Browsing - executive - Google Chrome|non-effective
+129|34|2025-07-19 13:12:00|Browsing - as - Google Chrome|non-effective
+129|34|2025-07-19 13:13:00|Free Fire - car - Google Chrome|non-effective
+129|34|2025-07-19 13:14:00|Facebook - clear - Google Chrome|non-effective
+129|34|2025-07-19 13:15:00|Mobile Legends - teacher - Google Chrome|non-effective
+129|34|2025-07-19 13:16:00|WhatsApp - hear - Google Chrome|non-effective
+129|34|2025-07-19 13:17:00|Shopee - when - Google Chrome|non-effective
+129|34|2025-07-19 13:18:00|Grab - third - Google Chrome|non-effective
+129|34|2025-07-19 13:19:00|PUBG - chair - Google Chrome|non-effective
+129|34|2025-07-19 13:20:00|Teams - Meeting - question - Google Chrome|effective
+129|34|2025-07-19 13:21:00|Canva - production - Google Chrome|effective
+129|34|2025-07-19 13:22:00|DevOps Tools - fact - Google Chrome|effective
+129|34|2025-07-19 13:23:00|Database Query - stuff - Google Chrome|effective
+129|34|2025-07-19 13:24:00|TikTok - enter - Google Chrome|non-effective
+129|34|2025-07-19 13:25:00|API Testing - current - Google Chrome|effective
+129|34|2025-07-19 13:26:00|Gojek - key - Google Chrome|non-effective
+129|34|2025-07-19 13:27:00|Architecture Diagram - soldier - Google Chrome|effective
+129|34|2025-07-19 13:28:00|Design Review - respond - Google Chrome|effective
+129|34|2025-07-19 13:29:00|Gaming - almost - Google Chrome|non-effective
+129|34|2025-07-19 13:30:00|Zoom Meeting - until - Google Chrome|effective
+129|34|2025-07-19 13:31:00|Code Review - receive - Google Chrome|effective
+129|34|2025-07-19 13:32:00|WhatsApp - machine - Google Chrome|non-effective
+129|34|2025-07-19 13:33:00|Sprint Planning - late - Google Chrome|effective
+129|34|2025-07-19 13:34:00|WhatsApp - lose - Google Chrome|non-effective
+129|34|2025-07-19 13:35:00|Canva - water - Google Chrome|effective
+129|34|2025-07-19 13:36:00|Netflix - bar - Google Chrome|non-effective
+129|34|2025-07-19 13:37:00|Jira - center - Google Chrome|effective
+129|34|2025-07-19 13:38:00|Database Query - assume - Google Chrome|effective
+129|34|2025-07-19 13:39:00|API Testing - job - Google Chrome|effective
+129|34|2025-07-19 13:40:00|Shopping - teacher - Google Chrome|non-effective
+129|34|2025-07-19 13:41:00|Reddit - quality - Google Chrome|non-effective
+129|34|2025-07-19 13:42:00|Database Query - step - Google Chrome|effective
+129|34|2025-07-19 13:43:00|Gojek - event - Google Chrome|non-effective
+129|34|2025-07-19 13:44:00|API Testing - cause - Google Chrome|effective
+129|34|2025-07-19 13:45:00|Spotify - tough - Google Chrome|non-effective
+129|34|2025-07-19 13:46:00|GitHub - grow - Google Chrome|effective
+129|34|2025-07-19 13:47:00|Movie Night - late - Google Chrome|non-effective
+129|34|2025-07-19 13:48:00|GitLab - tend - Google Chrome|effective
+129|34|2025-07-19 13:49:00|IntelliJ IDEA - trial - Google Chrome|effective
+129|34|2025-07-19 13:50:00|CI/CD Pipeline - worker - Google Chrome|effective
+129|34|2025-07-19 13:51:00|Notion - air - Google Chrome|effective
+129|34|2025-07-19 13:52:00|Anime - blue - Google Chrome|non-effective
+129|34|2025-07-19 13:53:00|Facebook - property - Google Chrome|non-effective
+129|34|2025-07-19 13:54:00|WhatsApp - report - Google Chrome|non-effective
+129|34|2025-07-19 13:55:00|Gaming - what - Google Chrome|non-effective
+129|34|2025-07-19 13:56:00|Figma - campaign - Google Chrome|effective
+129|34|2025-07-19 13:57:00|Database Query - finish - Google Chrome|effective
+129|34|2025-07-19 13:58:00|Instagram - seat - Google Chrome|non-effective
+129|34|2025-07-19 13:59:00|Music Playlist - professional - Google Chrome|non-effective
+129|34|2025-07-19 14:00:00|Gaming - foreign - Google Chrome|non-effective
+129|34|2025-07-19 14:01:00|IDE Plugin - present - Google Chrome|effective
+129|34|2025-07-19 14:02:00|Gojek - wonder - Google Chrome|non-effective
+129|34|2025-07-19 14:03:00|Movie Night - as - Google Chrome|non-effective
+129|34|2025-07-19 14:04:00|Figma - artist - Google Chrome|effective
+129|34|2025-07-19 14:05:00|Twitter - participant - Google Chrome|non-effective
+129|34|2025-07-19 14:06:00|Slack - against - Google Chrome|effective
+129|34|2025-07-19 14:07:00|IDE Plugin - agent - Google Chrome|effective
+129|34|2025-07-19 14:08:00|Music Playlist - anything - Google Chrome|non-effective
+129|34|2025-07-19 14:09:00|Drama Streaming - western - Google Chrome|non-effective
+129|34|2025-07-19 14:10:00|Architecture Diagram - line - Google Chrome|effective
+129|34|2025-07-19 14:11:00|Reddit - also - Google Chrome|non-effective
+129|34|2025-07-19 14:12:00|WhatsApp - look - Google Chrome|non-effective
+129|34|2025-07-19 14:13:00|Facebook - still - Google Chrome|non-effective
+129|34|2025-07-19 14:14:00|Debugging - two - Google Chrome|effective
+129|34|2025-07-19 14:15:00|IntelliJ IDEA - go - Google Chrome|effective
+129|34|2025-07-19 14:16:00|Tokopedia - probably - Google Chrome|non-effective
+129|34|2025-07-19 14:17:00|PUBG - buy - Google Chrome|non-effective
+129|34|2025-07-19 14:18:00|Shopee - itself - Google Chrome|non-effective
+129|34|2025-07-19 14:19:00|Code Review - believe - Google Chrome|effective
+129|34|2025-07-19 14:20:00|Debugging - mention - Google Chrome|effective
+129|34|2025-07-19 14:21:00|Code Review - country - Google Chrome|effective
+129|34|2025-07-19 14:22:00|Debugging - speech - Google Chrome|effective
+129|34|2025-07-19 14:23:00|Music Playlist - affect - Google Chrome|non-effective
+129|34|2025-07-19 14:24:00|Lazada - agree - Google Chrome|non-effective
+129|34|2025-07-19 14:25:00|Browsing - rule - Google Chrome|non-effective
+129|34|2025-07-19 14:26:00|Zoom Meeting - line - Google Chrome|effective
+129|34|2025-07-19 14:27:00|Visual Studio Code - receive - Google Chrome|effective
+129|34|2025-07-19 14:28:00|Reddit - natural - Google Chrome|non-effective
+129|34|2025-07-19 14:29:00|Teams - Meeting - hard - Google Chrome|effective
+129|34|2025-07-19 14:30:00|DevOps Tools - recent - Google Chrome|effective
+129|34|2025-07-19 14:31:00|Spotify - test - Google Chrome|non-effective
+129|34|2025-07-19 14:32:00|Free Fire - know - Google Chrome|non-effective
+129|34|2025-07-19 14:33:00|IDE Plugin - drive - Google Chrome|effective
+129|34|2025-07-19 14:34:00|Free Fire - lawyer - Google Chrome|non-effective
+129|34|2025-07-19 14:35:00|Reddit - green - Google Chrome|non-effective
+129|34|2025-07-19 14:36:00|Database Query - television - Google Chrome|effective
+129|34|2025-07-19 14:37:00|PyCharm - most - Google Chrome|effective
+129|34|2025-07-19 14:38:00|Browsing - difficult - Google Chrome|non-effective
+129|34|2025-07-19 14:39:00|API Testing - by - Google Chrome|effective
+129|34|2025-07-19 14:40:00|Instagram - to - Google Chrome|non-effective
+129|34|2025-07-19 14:41:00|Lazada - ever - Google Chrome|non-effective
+129|34|2025-07-19 14:42:00|Lazada - build - Google Chrome|non-effective
+129|34|2025-07-19 14:43:00|Mobile Legends - test - Google Chrome|non-effective
+129|34|2025-07-19 14:44:00|Lazada - rate - Google Chrome|non-effective
+129|34|2025-07-19 14:45:00|Shopee - price - Google Chrome|non-effective
+129|34|2025-07-19 14:46:00|Gaming - now - Google Chrome|non-effective
+129|34|2025-07-19 14:47:00|Gojek - church - Google Chrome|non-effective
+129|34|2025-07-19 14:48:00|Anime - establish - Google Chrome|non-effective
+129|34|2025-07-19 14:49:00|Browsing - himself - Google Chrome|non-effective
+129|34|2025-07-19 14:50:00|Grab - country - Google Chrome|non-effective
+129|34|2025-07-19 14:51:00|Anime - plan - Google Chrome|non-effective
+129|34|2025-07-19 14:52:00|PUBG - she - Google Chrome|non-effective
+129|34|2025-07-19 14:53:00|Anime - pick - Google Chrome|non-effective
+129|34|2025-07-19 14:54:00|Netflix - approach - Google Chrome|non-effective
+129|34|2025-07-19 14:55:00|GitHub - face - Google Chrome|effective
+129|34|2025-07-19 14:56:00|Architecture Diagram - type - Google Chrome|effective
+129|34|2025-07-19 14:57:00|Facebook - here - Google Chrome|non-effective
+129|34|2025-07-19 14:58:00|GitHub - live - Google Chrome|effective
+129|34|2025-07-19 14:59:00|Notion - down - Google Chrome|effective
+129|34|2025-07-19 15:00:00|Canva - old - Google Chrome|effective
+129|34|2025-07-19 15:01:00|IntelliJ IDEA - senior - Google Chrome|effective
+129|34|2025-07-19 15:02:00|Twitter - speech - Google Chrome|non-effective
+129|34|2025-07-19 15:03:00|Grab - trade - Google Chrome|non-effective
+129|34|2025-07-19 15:04:00|PUBG - sing - Google Chrome|non-effective
+129|34|2025-07-19 15:05:00|Jira - live - Google Chrome|effective
+129|34|2025-07-19 15:06:00|PyCharm - drive - Google Chrome|effective
+129|34|2025-07-19 15:07:00|Mobile Legends - believe - Google Chrome|non-effective
+129|34|2025-07-19 15:08:00|Teams - Meeting - kid - Google Chrome|effective
+129|34|2025-07-19 15:09:00|Lazada - wind - Google Chrome|non-effective
+129|34|2025-07-19 15:10:00|Zoom Meeting - garden - Google Chrome|effective
+129|34|2025-07-19 15:11:00|Teams - Meeting - service - Google Chrome|effective
+129|34|2025-07-19 15:12:00|DevOps Tools - necessary - Google Chrome|effective
+129|34|2025-07-19 15:13:00|Code Review - Mr - Google Chrome|effective
+129|34|2025-07-19 15:14:00|Free Fire - everyone - Google Chrome|non-effective
+129|34|2025-07-19 15:15:00|Music Playlist - thousand - Google Chrome|non-effective
+129|34|2025-07-19 15:16:00|PyCharm - edge - Google Chrome|effective
+129|34|2025-07-19 15:17:00|Shopee - exactly - Google Chrome|non-effective
+129|34|2025-07-19 15:18:00|Sprint Planning - understand - Google Chrome|effective
+129|34|2025-07-19 15:19:00|Design Review - agree - Google Chrome|effective
+129|34|2025-07-19 15:20:00|Music Playlist - simple - Google Chrome|non-effective
+129|34|2025-07-19 15:21:00|Zoom Meeting - firm - Google Chrome|effective
+129|34|2025-07-19 15:22:00|Shopee - involve - Google Chrome|non-effective
+129|34|2025-07-19 15:23:00|Confluence - time - Google Chrome|effective
+129|34|2025-07-19 15:24:00|Reddit - back - Google Chrome|non-effective
+129|34|2025-07-19 15:25:00|Movie Night - at - Google Chrome|non-effective
+129|34|2025-07-19 15:26:00|Gaming - meet - Google Chrome|non-effective
+129|34|2025-07-19 15:27:00|Shopping - happy - Google Chrome|non-effective
+129|34|2025-07-19 15:28:00|Drama Streaming - something - Google Chrome|non-effective
+129|34|2025-07-19 15:29:00|PUBG - why - Google Chrome|non-effective
+129|34|2025-07-19 15:30:00|PUBG - purpose - Google Chrome|non-effective
+129|34|2025-07-19 15:31:00|GitHub - same - Google Chrome|effective
+129|34|2025-07-19 15:32:00|Gojek - final - Google Chrome|non-effective
+129|34|2025-07-19 15:33:00|PUBG - pay - Google Chrome|non-effective
+129|34|2025-07-19 15:34:00|IntelliJ IDEA - radio - Google Chrome|effective
+129|34|2025-07-19 15:35:00|WhatsApp - movie - Google Chrome|non-effective
+129|34|2025-07-19 15:36:00|Architecture Diagram - program - Google Chrome|effective
+129|34|2025-07-19 15:37:00|Design Review - heart - Google Chrome|effective
+129|34|2025-07-19 15:38:00|YouTube - this - Google Chrome|non-effective
+129|34|2025-07-19 15:39:00|Debugging - police - Google Chrome|effective
+129|34|2025-07-19 15:40:00|IDE Plugin - quality - Google Chrome|effective
+129|34|2025-07-19 15:41:00|Lazada - top - Google Chrome|non-effective
+129|34|2025-07-19 15:42:00|PyCharm - bit - Google Chrome|effective
+129|34|2025-07-19 15:43:00|Visual Studio Code - end - Google Chrome|effective
+129|34|2025-07-19 15:44:00|IntelliJ IDEA - become - Google Chrome|effective
+129|34|2025-07-19 15:45:00|Confluence - instead - Google Chrome|effective
+129|34|2025-07-19 15:46:00|Mobile Legends - person - Google Chrome|non-effective
+129|34|2025-07-19 15:47:00|Tokopedia - camera - Google Chrome|non-effective
+129|34|2025-07-19 15:48:00|Anime - can - Google Chrome|non-effective
+129|34|2025-07-19 15:49:00|Netflix - recently - Google Chrome|non-effective
+129|34|2025-07-19 15:50:00|API Testing - painting - Google Chrome|effective
+129|34|2025-07-19 15:51:00|Canva - assume - Google Chrome|effective
+129|34|2025-07-19 15:52:00|Code Review - suddenly - Google Chrome|effective
+129|34|2025-07-19 15:53:00|Free Fire - name - Google Chrome|non-effective
+129|34|2025-07-19 15:54:00|Grab - chair - Google Chrome|non-effective
+129|34|2025-07-19 15:55:00|Drama Streaming - technology - Google Chrome|non-effective
+129|34|2025-07-19 15:56:00|API Testing - traditional - Google Chrome|effective
+129|34|2025-07-19 15:57:00|Gojek - power - Google Chrome|non-effective
+129|34|2025-07-19 15:58:00|Browsing - summer - Google Chrome|non-effective
+129|34|2025-07-19 15:59:00|Teams - Meeting - effort - Google Chrome|effective
+129|34|2025-07-19 16:00:00|Drama Streaming - energy - Google Chrome|non-effective
+129|34|2025-07-19 16:01:00|PyCharm - close - Google Chrome|effective
+129|34|2025-07-19 16:02:00|Free Fire - bag - Google Chrome|non-effective
+129|34|2025-07-19 16:03:00|GitLab - yes - Google Chrome|effective
+129|34|2025-07-19 16:04:00|Notion - deal - Google Chrome|effective
+129|34|2025-07-19 16:05:00|Notion - alone - Google Chrome|effective
+129|34|2025-07-19 16:06:00|Teams - Meeting - half - Google Chrome|effective
+129|34|2025-07-19 16:07:00|Architecture Diagram - seat - Google Chrome|effective
+129|34|2025-07-19 16:08:00|Instagram - view - Google Chrome|non-effective
+129|34|2025-07-19 16:09:00|Live Stream - Mrs - Google Chrome|non-effective
+129|34|2025-07-19 16:10:00|GitLab - forget - Google Chrome|effective
+129|34|2025-07-19 16:11:00|Zoom Meeting - perhaps - Google Chrome|effective
+129|34|2025-07-19 16:12:00|Reddit - instead - Google Chrome|non-effective
+129|34|2025-07-19 16:13:00|Music Playlist - campaign - Google Chrome|non-effective
+129|34|2025-07-19 16:14:00|Figma - social - Google Chrome|effective
+129|34|2025-07-19 16:15:00|Netflix - business - Google Chrome|non-effective
+129|34|2025-07-19 16:16:00|Jira - instead - Google Chrome|effective
+129|34|2025-07-19 16:17:00|Anime - street - Google Chrome|non-effective
+129|34|2025-07-19 16:18:00|Grab - management - Google Chrome|non-effective
+129|34|2025-07-19 16:19:00|API Testing - including - Google Chrome|effective
+129|34|2025-07-19 16:20:00|Figma - society - Google Chrome|effective
+129|34|2025-07-19 16:21:00|Live Stream - likely - Google Chrome|non-effective
+129|34|2025-07-19 16:22:00|IntelliJ IDEA - floor - Google Chrome|effective
+129|34|2025-07-19 16:23:00|Mobile Legends - food - Google Chrome|non-effective
+129|34|2025-07-19 16:24:00|PyCharm - begin - Google Chrome|effective
+129|34|2025-07-19 16:25:00|Visual Studio Code - idea - Google Chrome|effective
+129|34|2025-07-19 16:26:00|Database Query - color - Google Chrome|effective
+129|34|2025-07-19 16:27:00|Shopping - wear - Google Chrome|non-effective
+129|34|2025-07-19 16:28:00|Twitter - child - Google Chrome|non-effective
+129|34|2025-07-19 16:29:00|DevOps Tools - decade - Google Chrome|effective
+129|34|2025-07-19 16:30:00|Mobile Legends - year - Google Chrome|non-effective
+129|34|2025-07-19 16:31:00|Lazada - data - Google Chrome|non-effective
+129|34|2025-07-19 16:32:00|Grab - write - Google Chrome|non-effective
+129|34|2025-07-19 16:33:00|Spotify - network - Google Chrome|non-effective
+129|34|2025-07-19 16:34:00|Music Playlist - north - Google Chrome|non-effective
+129|34|2025-07-19 16:35:00|PUBG - health - Google Chrome|non-effective
+129|34|2025-07-19 16:36:00|Shopee - head - Google Chrome|non-effective
+129|34|2025-07-19 16:37:00|PyCharm - production - Google Chrome|effective
+129|34|2025-07-19 16:38:00|Jira - over - Google Chrome|effective
+129|34|2025-07-19 16:39:00|Drama Streaming - land - Google Chrome|non-effective
+129|34|2025-07-19 16:40:00|Notion - through - Google Chrome|effective
+129|34|2025-07-19 16:41:00|Live Stream - theory - Google Chrome|non-effective
+129|34|2025-07-19 16:42:00|Music Playlist - economic - Google Chrome|non-effective
+129|34|2025-07-19 16:43:00|WhatsApp - project - Google Chrome|non-effective
+129|34|2025-07-19 16:44:00|CI/CD Pipeline - opportunity - Google Chrome|effective
+129|34|2025-07-19 16:45:00|Reddit - give - Google Chrome|non-effective
+129|34|2025-07-19 16:46:00|Confluence - middle - Google Chrome|effective
+129|34|2025-07-19 16:47:00|Instagram - technology - Google Chrome|non-effective
+129|34|2025-07-19 16:48:00|Anime - now - Google Chrome|non-effective
+129|34|2025-07-19 16:49:00|Browsing - evidence - Google Chrome|non-effective
+129|34|2025-07-19 16:50:00|YouTube - bag - Google Chrome|non-effective
+129|34|2025-07-19 16:51:00|Teams - Meeting - officer - Google Chrome|effective
+129|34|2025-07-19 16:52:00|Instagram - president - Google Chrome|non-effective
+129|34|2025-07-19 16:53:00|Architecture Diagram - put - Google Chrome|effective
+129|34|2025-07-19 16:54:00|Lazada - with - Google Chrome|non-effective
+129|34|2025-07-19 16:55:00|Netflix - security - Google Chrome|non-effective
+129|34|2025-07-19 16:56:00|Slack - television - Google Chrome|effective
+129|34|2025-07-19 16:57:00|Database Query - particular - Google Chrome|effective
+129|34|2025-07-19 16:58:00|Music Playlist - return - Google Chrome|non-effective
+129|34|2025-07-19 16:59:00|Tokopedia - provide - Google Chrome|non-effective
+129|34|2025-07-19 17:00:00|Netflix - three - Google Chrome|non-effective

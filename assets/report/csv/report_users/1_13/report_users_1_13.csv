@@ -1,0 +1,8 @@
+user_id|user_name|user_sph|total_effective_hours|total_non_effective_hours|total_late_hours|total_tasks|completed_tasks|pending_tasks
+31|Employee A|50000|13|14|0|5.0|3|2.0
+32|Employee B|60000|22|23|0|6.0|5|1.0
+33|Employee C|45000|5|4|0|5.0|1|4.0
+34|Employee D|70000|32|31|0|7.0|7|0.0
+35|Employee E|40000|9|9|0|5.0|2|3.0
+36|Employee F|52000|22|23|0|5.0|5|0.0
+37|Employee G|62000|17|19|0|5.0|4|1.0

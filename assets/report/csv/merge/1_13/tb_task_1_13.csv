@@ -1,0 +1,39 @@
+task_id|task_name|task_description|user_name|task_deadline_start|task_deadline_end|task_record
+108|Build Login Page|Develop a responsive login page for the application.|Employee A|2025-07-09 08:00:00|2025-07-10 17:00:00|done
+109|Create Dashboard UI|Design and implement the mentee dashboard interface.|Employee A|2025-07-11 08:00:00|2025-07-13 17:00:00|done
+110|Implement Navigation Bar|Develop the main navigation bar for the app.|Employee A|2025-07-14 08:00:00|2025-07-15 17:00:00|done
+111|Optimize Frontend Performance|Improve the frontend performance and loading speed.|Employee A|2025-07-16 08:00:00|2025-07-17 17:00:00|set
+112|Integrate API with Frontend|Connect backend APIs with frontend components.|Employee A|2025-07-18 08:00:00|2025-07-20 17:00:00|set
+113|Setup Authentication API|Create login and registration APIs with token-based authentication.|Employee B|2025-07-09 08:00:00|2025-07-11 17:00:00|done
+114|Develop User CRUD API|Implement APIs for creating, reading, updating, and deleting users.|Employee B|2025-07-12 08:00:00|2025-07-13 17:00:00|done
+115|Design Database Schema|Design the database schema for Mentory.|Employee B|2025-07-14 08:00:00|2025-07-15 17:00:00|done
+116|Create Notification API|Develop APIs for sending user notifications.|Employee B|2025-07-16 08:00:00|2025-07-18 17:00:00|done
+117|Optimize Query Performance|Optimize database queries for better performance.|Employee B|2025-07-19 08:00:00|2025-07-21 17:00:00|done
+118|Develop Payment Gateway API|Implement APIs for mentor payment processing.|Employee B|2025-07-22 08:00:00|2025-07-24 17:00:00|set
+119|Design Landing Page|Create a modern and engaging landing page for Mentory.|Employee C|2025-07-09 08:00:00|2025-07-10 17:00:00|done
+120|Create User Flow Diagram|Design user flow diagrams for smooth navigation.|Employee C|2025-07-11 08:00:00|2025-07-12 17:00:00|set
+121|Design Dashboard UI|Design the mentee dashboard with focus on UX.|Employee C|2025-07-13 08:00:00|2025-07-14 17:00:00|set
+122|Prepare Icon Assets|Design and prepare icon assets for the application.|Employee C|2025-07-15 08:00:00|2025-07-16 17:00:00|set
+123|Create Interactive Prototype|Build an interactive prototype in Figma.|Employee C|2025-07-17 08:00:00|2025-07-18 17:00:00|set
+124|Setup Staging Server|Setup a staging server for testing and deployment.|Employee D|2025-07-09 08:00:00|2025-07-10 17:00:00|done
+125|Configure CI/CD Pipeline|Implement CI/CD for automated deployments.|Employee D|2025-07-11 08:00:00|2025-07-12 17:00:00|done
+126|Setup Database Backup|Setup database backup and recovery systems.|Employee D|2025-07-13 08:00:00|2025-07-14 17:00:00|done
+127|Implement Server Monitoring|Implement monitoring tools for server performance.|Employee D|2025-07-15 08:00:00|2025-07-16 17:00:00|done
+128|Enhance Server Security|Configure server security settings.|Employee D|2025-07-17 08:00:00|2025-07-18 17:00:00|done
+129|Deploy to Production|Deploy the application to the production server.|Employee D|2025-07-19 08:00:00|2025-07-20 17:00:00|done
+130|Test Load Balancer Setup|Test load balancing configurations.|Employee D|2025-07-21 08:00:00|2025-07-22 17:00:00|done
+131|Write Unit Tests for API|Develop unit tests for backend APIs.|Employee E|2025-07-09 08:00:00|2025-07-10 17:00:00|done
+132|Perform Frontend Testing|Test frontend UI on multiple devices.|Employee E|2025-07-11 08:00:00|2025-07-12 17:00:00|done
+133|Write Integration Tests|Develop integration tests for API and frontend.|Employee E|2025-07-13 08:00:00|2025-07-14 17:00:00|set
+134|Document Bugs and Issues|Document all bugs found during testing.|Employee E|2025-07-15 08:00:00|2025-07-16 17:00:00|set
+135|Conduct Regression Testing|Perform regression testing for each release.|Employee E|2025-07-17 08:00:00|2025-07-18 17:00:00|set
+136|Build Profile Page|Develop the user profile page with responsive design.|Employee F|2025-07-09 08:00:00|2025-07-10 17:00:00|done
+137|Develop Notification System|Implement notification system in the frontend.|Employee F|2025-07-11 08:00:00|2025-07-12 17:00:00|done
+138|Implement Responsive Design|Optimize the UI for all screen sizes.|Employee F|2025-07-13 08:00:00|2025-07-14 17:00:00|done
+139|Integrate Chat Feature|Add realtime chat feature to the frontend.|Employee F|2025-07-15 08:00:00|2025-07-16 17:00:00|done
+140|Create Notification Dropdown|Develop a dropdown menu for notifications.|Employee F|2025-07-17 08:00:00|2025-07-18 17:00:00|done
+141|Develop Chat API|Build backend APIs for realtime chat.|Employee G|2025-07-09 08:00:00|2025-07-10 17:00:00|done
+142|Implement Role-Based Access Control|Set up user roles and access permissions.|Employee G|2025-07-11 08:00:00|2025-07-12 17:00:00|done
+143|Create Analytics API|Develop APIs for analytics and reports.|Employee G|2025-07-13 08:00:00|2025-07-14 17:00:00|done
+144|Optimize API Response Time|Improve backend API response time.|Employee G|2025-07-15 08:00:00|2025-07-16 17:00:00|done
+145|Setup WebSocket Server|Implement WebSocket server for realtime communication.|Employee G|2025-07-17 08:00:00|2025-07-18 17:00:00|set
