@@ -1,0 +1,14 @@
+
+# Ignore assets folder for language stats
+assets/* linguist-vendored
+
+# Ignore database folder for language stats
+database/* linguist-vendored
+
+# Treat all .js and .css files as vendored
+*.js linguist-vendored
+*.css linguist-vendored
+
+# Explicitly detect PHP and Python as main languages
+*.php linguist-detectable=true
+*.py linguist-detectable=true
