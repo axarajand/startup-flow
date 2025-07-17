@@ -82,3 +82,12 @@ See [LICENSE](LICENSE) for details.
 
 ## Contact
 For inquiries or permissions, please contact: **axarajand@gmail.com**
+
+## Technologies Used
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP, Python
+- Database: MySQL
+- Frameworks/Libraries:
+   - YOLO (Object Detection)
+   - Reinforcement Learning algorithms
+- Server: Apache (XAMPP)
